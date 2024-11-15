@@ -1,0 +1,37 @@
+.lead {
+margin-top: 91px;
+}
+
+.lead__title{
+margin:auto;
+max-width: 720px;;
+width: 100%;
+font-family: "Inter-Black";
+font-weight: 900;
+font-size: 96px;
+line-height: 100px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.lead__subtitle{
+max-width: 720px;
+width:100%;
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+color: #FFFFFF;
+margin: 32px auto auto auto;
+}
+
+.lead__image {
+max-width: 984px;
+width: 100%;
+height: auto;
+margin: 64px auto 92px auto;
+display: block;
+
+}
