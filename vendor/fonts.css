@@ -1,3 +1,13 @@
-  @font-face { font-family: "Inter"; font-style: normal; font-weight: 400; font-display: swap; src: url("./web/Inter-Regular.woff2") format("woff2"); }
-  @font-face { font-family: "Inter-Black"; font-style: normal; font-weight: 900; src: url("./web/Inter-Black.woff2") format("woff2"); }
-  
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./fuentes/Inter-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Inter-Black";
+  font-style: normal;
+  font-weight: 900;
+  src: url("./fuentes/Inter-Black.woff2") format("woff2");
+}
