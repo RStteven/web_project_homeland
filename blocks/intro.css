@@ -44,7 +44,7 @@
   /* or 26px */
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
   .intro__container {
     max-width: 720px;
   }
@@ -54,7 +54,7 @@
   }
 }
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 320px) {
   .intro__container {
     max-width: 288px;
   }
