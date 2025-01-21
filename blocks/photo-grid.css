@@ -14,6 +14,7 @@
   width: 100%;
   max-height: 213px;
   height: 100%;
+  box-shadow: 5px 5px 20px black;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1000px) {
